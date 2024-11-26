@@ -1,0 +1,7 @@
+C:\Users\Hamid Han Doğdu\source\repos\fordonguleri\fordonguleri\bin\Debug\fordonguleri.exe.config
+C:\Users\Hamid Han Doğdu\source\repos\fordonguleri\fordonguleri\bin\Debug\fordonguleri.exe
+C:\Users\Hamid Han Doğdu\source\repos\fordonguleri\fordonguleri\bin\Debug\fordonguleri.pdb
+C:\Users\Hamid Han Doğdu\source\repos\fordonguleri\fordonguleri\obj\Debug\fordonguleri.csproj.AssemblyReference.cache
+C:\Users\Hamid Han Doğdu\source\repos\fordonguleri\fordonguleri\obj\Debug\fordonguleri.csproj.CoreCompileInputs.cache
+C:\Users\Hamid Han Doğdu\source\repos\fordonguleri\fordonguleri\obj\Debug\fordonguleri.exe
+C:\Users\Hamid Han Doğdu\source\repos\fordonguleri\fordonguleri\obj\Debug\fordonguleri.pdb
