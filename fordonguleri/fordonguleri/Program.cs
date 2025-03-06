@@ -31,9 +31,9 @@ namespace fordonguleri
 
             Console.WriteLine("For ile döngü");
 
-            for (int ece = 0; ece <= 10; ece++)
+            for (int a = 0; a <= 10; a++)
             {
-                Console.WriteLine(ece);
+                Console.WriteLine(a);
             } 
               Console.WriteLine("Devam etmek için 'ENTER'");
               Console.ReadLine();
